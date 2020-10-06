@@ -3,3 +3,7 @@ A nice and simple webpack configuration to serve as a starting point for your pr
 
 # Installation
 run "npm install" at project root.
+
+# Usage
+"npm start" launches a development server on port 8080 and opens it in the browser automatically.
+"npm run build" builds a "/dist" directory with your code bundles inside.
